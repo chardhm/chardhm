@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @chardhm.
+- 👀 I’m interested in front-end.
+- 🌱 I’m currently learning Web Stack Developer.
+- 💞️ I’m looking to collaborate on whatever you want related to the front-end.
+- 📫 How to reach me on c.ha.r@hotmail.com
