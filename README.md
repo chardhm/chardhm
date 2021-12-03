@@ -7,7 +7,7 @@ I'm [chardhm](https://github.com/chardhm)！I'm a Full-Stack web developer & Civ
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/ChardDevp)](https://twitter.com/ChardDevp)
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:c.ha.r@outlook.com)](mailto:c.ha.r@outlook.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Chard_Hernández-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chardhm//)](https://www.linkedin.com/in/chardhm/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-fb3958?style=flat-square&labelColor=fb3958&logo=instagram&logoColor=white&link=https://instagram.com/chardhm)](https://instagram.com/chardhm)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-fb3958?style=flat-square&labelColor=fb3958&logo=instagram&logoColor=white&link=https://www.instagram.com/chardhm/)](https://www.instagram.com/chardhm/)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=chardhm)
 
 
