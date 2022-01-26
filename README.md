@@ -15,8 +15,8 @@ I'm [chardhm](https://github.com/chardhm)！I'm a Full-Stack web developer & Civ
 <summary>👨‍💻 I'm currently working on...</summary>
 
 <!--START_SECTION:activity-->
-1. 🍴🍗 Restobar App with some friends.
-2. 🍿 Movies App.
+1. 🍴🍗 Restobar App with some friends. App link: https://restobares-app.web.app/
+2. 👨‍💻 Tech Store - eCommerce.
 <!--END_SECTION:activity-->
 
 </details>
